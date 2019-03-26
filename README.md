@@ -1,11 +1,5 @@
 # Praca dyplomowa: Tetris na matrycy LED, sterowany za pomocą aplikacji mobilnej
 
-
-[TOCM]
-
-[TOC]
-
-
 Abstrakt projektu
 =============
 Celem pracy było  stworzenie dwóch aplikacji, a także matrycy (złożonej z podzielonych na kawałki taśm LED oraz mikrokontrolera sterującego nimi), która umożliwiłaby wyświetlenie aktualnej rozgrywki.  Całość miało stanowić nową platformę, zdolną do umożliwienia przeprowadzenia na niej rozgrywki  w klasyczną odmianę Tetrisa.
@@ -25,7 +19,7 @@ Linki związane z projektem
 ###Przykładowe zdjęcia projektu:
 
 
-![](https://zapodaj.net/images/16c12774a9549.png "李健首张专辑《似水流年》封面")
+![](https://zapodaj.net/images/16c12774a9549.png)
 
 > Udane zlutowanie podzespołów matrycy
 
